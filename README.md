@@ -2,4 +2,4 @@
 
 Análise de dados Airbnb | Rio de Janeiro
 
-Nesse projeto, iremos analisar os preços das acomodações no Airbnb na cidade e identificar quais os bairros oferecem as melhores opções de hospedagem em termos de custo-benefício. 
+Nesse projeto, a análise é sobre os preços das acomodações no Airbnb na cidade e identificar quais os bairros oferecem as melhores opções de hospedagem em termos de custo-benefício. 
